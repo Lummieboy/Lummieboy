@@ -2,8 +2,6 @@
 ## Welcome to my GitHub profile!
 I'm Wusu Oluwapelumi, a passionate Software Developer who loves to build a seamless and scaleable software solutions. I'm always eager to learn new things and take on exciting challenges. I’m looking to collaborate on opensource projects, hackathons and anything that involves building actively.
 
-Skills: VUE JS / REACT / Javascript/ HTML / CSS
-
 ## Skills and Experience:
 * ☸ React,
 * 💻 HTML, CSS, JAVASCRIPT.
